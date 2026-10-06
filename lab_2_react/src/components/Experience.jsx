@@ -14,11 +14,7 @@ function Experience() {
   return (
     <section id="experience">
       <h2>Досвід роботи</h2>
-      <Job
-        title="Посада — Компанія"
-        period="01.2025 – 06.2025"
-        duties={["Обов'язок 1", "Обов'язок 2"]}
-      />
+      <p>Немає досвіду роботи.</p>
     </section>
   );
 }
